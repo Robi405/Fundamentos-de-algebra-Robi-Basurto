@@ -48,17 +48,17 @@
 --- 
 #### Calcula el valor absoluto de los siguientes números complejos
 
-43) |-9 - 9i| = 
+43) |-9 - 9i| = 9 √2
 
-44) |8 - 6i| = 
+44) |8 - 6i| = √100
 
-45) |6 - 3i| =
+45) |6 - 3i| = 3 √5
 
-46) |10 + 10i| =
+46) |10 + 10i| = 10 √2
 
-47) |6 - 10i| =
-
-48) |-1 + 7i| =
+47) |6 - 10i| = 2 √34
+    
+48) |-1 + 7i| = 5 √2
 
 ---
 
@@ -77,6 +77,7 @@
 54)  $i^{5^5}$ =
 
 ---
+#### Convierte los números complejos a su forma polar
 
 
 
