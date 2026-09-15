@@ -33,8 +33,51 @@
 
 ---
 
-37)
-    
-39)  
+37) $\frac{10 - 7i}{1 + 3i}$ =            -1.1 - 3.7i
+
+38) $\frac{4 + 2i}{-1 - 10i}$ =        - $\frac{24}{101}$ + $\frac{38}{101}$ i
+
+39) $\frac{1 + 4i}{-1 - 6i}$ =            - $\frac{25}{37}$ + $\frac{2}{37}$ i
+
+40) $\frac{-8 + 4i}{1 + i}$ =                -2 + 6i
+
+41) $\frac{-10 + 8i}{6 + i}$ =          - $\frac{52}{37}$ + $\frac{58}{37}$ i
+
+42) $\frac{2 - 2i}{4 - 10i}$ =            $\frac{7}{29}$ + $\frac{3}{29}$ i
+
+--- 
+#### Calcula el valor absoluto de los siguientes números complejos
+
+43) |-9 - 9i| = 
+
+44) |8 - 6i| = 
+
+45) |6 - 3i| =
+
+46) |10 + 10i| =
+
+47) |6 - 10i| =
+
+48) |-1 + 7i| =
+
+---
+
+#### Resuelve las potencias de i
+
+49)  i<sup>5</sup> =
+
+50)  i<sup>10</sup> =
+
+51)  i<sup>20</sup> =
+
+52)  i<sup>35</sup> =
+
+53)  i<sup>256</sup> =
+
+54)  $i^{5^5}$ =
+
+---
+
+
 
 
