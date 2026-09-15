@@ -64,20 +64,50 @@
 
 #### Resuelve las potencias de i
 
-49)  i<sup>5</sup> =
+49)  i<sup>5</sup> = i
 
-50)  i<sup>10</sup> =
+50)  i<sup>10</sup> = -1
 
-51)  i<sup>20</sup> =
+51)  i<sup>20</sup> = 1 
 
-52)  i<sup>35</sup> =
+52)  i<sup>35</sup> = -i
 
-53)  i<sup>256</sup> =
+53)  i<sup>256</sup> = 1
 
-54)  $i^{5^5}$ =
+54)  $i^{5^5}$ = i
 
 ---
 #### Convierte los números complejos a su forma polar
+
+55) 6 - 8i =
+
+56) 5 √2 + 5 √2 x i =
+
+57) 2 - 2 √3 x i =
+
+58) $\frac{3 √3}{2}$ - $\frac{3i}{2}$ =
+
+59) 2 =
+
+60) -7i =
+
+---
+##### Convierte los numeros complejos en su forma polar a su forma rectangular
+
+61) cos 30 + i sin 30 =
+
+62) 2(cos 60 + i sin 60) = 
+
+63) 1.5 (cos 90 + i sin 90) =
+
+64) 2.5 (cos 120 + i sin 120) = 
+
+65) 4 (cos 135 + i sin 135) =
+
+66) 3 (cos 180 + i sin 180) =
+
+---
+
 
 
 
