@@ -132,6 +132,11 @@
 ---
 
 ![image alt](https://github.com/Robi405/Fundamentos-de-algebra-Robi-Basurto/blob/249852d5f859e93c7d9cc309769f5bf534096752/71.jpeg)
+![image alt](https://github.com/Robi405/Fundamentos-de-algebra-Robi-Basurto/blob/5d3298998f9bae5cdd12f2c853e5081c51fea2a2/71(2).jpeg)
+
+---
+
+
 
 
 
