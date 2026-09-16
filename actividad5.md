@@ -79,17 +79,17 @@
 ---
 #### Convierte los números complejos a su forma polar
 
-55) 6 - 8i =
+55) 6 - 8i = 10 (cos 306.87 + isen 306.87)
 
-56) 5 √2 + 5 √2 x i =
+56) 5 √2 + 5 √2 x i = 10 (cos 45 + isen 45)
 
-57) 2 - 2 √3 x i =
+57) 2 - 2 √3 x i = 4 (cos 300 + isen 300)
 
-58) $\frac{3 √3}{2}$ - $\frac{3i}{2}$ =
+58) $\frac{3 √3}{2}$ - $\frac{3i}{2}$ = 3 (cos 330 + isen 330)
 
-59) 2 =
+59) 2 = 2 (cos 180 + isen 180)
 
-60) -7i =
+60) -7i = 7 (cos 270 + isen 270)
 
 ---
 ##### Convierte los numeros complejos en su forma polar a su forma rectangular
@@ -100,13 +100,14 @@
 
 63) 1.5 (cos 90 + i sin 90) = $\frac{√3}{2}$ i = 1.5i
 
-64) 2.5 (cos 120 + i sin 120) = 
+64) 2.5 (cos 120 + i sin 120) = - $\frac{5}{4}$ + $\frac{5√3i}{4}$
 
-65) 4 (cos 135 + i sin 135) =
+65) 4 (cos 135 + i sin 135) = -2 √2 + 2 √2i = -2.828 + 2.828i
 
-66) 3 (cos 180 + i sin 180) =
+66) 3 (cos 180 + i sin 180) = -3
 
 ---
+#### Obten todas las raíces de los siguientes complejos
 
 
 
