@@ -94,11 +94,11 @@
 ---
 ##### Convierte los numeros complejos en su forma polar a su forma rectangular
 
-61) cos 30 + i sin 30 =
+61) cos 30 + i sin 30 = $\frac{√3}{2}$ + $\frac{i}{2}$ = 0.866 + 0.5i
 
-62) 2(cos 60 + i sin 60) = 
+62) 2(cos 60 + i sin 60) = 1 + √3i = 1 + 1.732i
 
-63) 1.5 (cos 90 + i sin 90) =
+63) 1.5 (cos 90 + i sin 90) = $\frac{√3}{2}$ i = 1.5i
 
 64) 2.5 (cos 120 + i sin 120) = 
 
