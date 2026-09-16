@@ -113,12 +113,22 @@
 
 ---
 #### Obten todas las raíces de los siguientes complejos
+
 ![image alt](https://github.com/Robi405/Fundamentos-de-algebra-Robi-Basurto/blob/45d44c1621c0dd4d110153d5396149860b06cfe0/67.jpeg)
+
 ---
+
 ![image alt](https://github.com/Robi405/Fundamentos-de-algebra-Robi-Basurto/blob/64d1477b2c38f2547cdaa29efe5ae3120093618d/68.jpeg)
+
 ---
+
 ![image alt](https://github.com/Robi405/Fundamentos-de-algebra-Robi-Basurto/blob/a01b4a770c25b77c4d5a7a3adf447242f542cd68/69.jpeg)
 ![image alt](https://github.com/Robi405/Fundamentos-de-algebra-Robi-Basurto/blob/ecf6ad1338cca0eb2f299fff06a5acb92e10d446/69(2).jpeg)
+
+---
+
+![image alt](https://github.com/Robi405/Fundamentos-de-algebra-Robi-Basurto/blob/34b94da23e18ec37bd0ab5eb82c2d0fe47554be9/70.jpeg)
+
 ---
 
 
