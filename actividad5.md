@@ -136,6 +136,7 @@
 
 ---
 
+![image alt](https://github.com/Robi405/Fundamentos-de-algebra-Robi-Basurto/blob/d0ae30453f8f106b8dd3dd65fff32d612a03abce/72.jpeg)
 
 
 
