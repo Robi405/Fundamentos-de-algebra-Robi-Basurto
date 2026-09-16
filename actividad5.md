@@ -1,7 +1,12 @@
 # Actividad #5. Ejercicios – Números complejos
-
-#### Resuelve las siguientes operaciones de numeros complejos
 ---
+#### Ubica los siguientes numeros complejos en el plano
+
+![image alt](https://github.com/Robi405/Fundamentos-de-algebra-Robi-Basurto/blob/b07bea8b85028bfa22ab8ba482462bd626e207e0/Planos_algebra.jpeg)
+
+---
+#### Resuelve las siguientes operaciones de numeros complejos
+
 25) (-7 - 4i) - (2 + i) = -9 - 5i                               
 
 
@@ -108,6 +113,8 @@
 
 ---
 #### Obten todas las raíces de los siguientes complejos
+
+
 
 
 
