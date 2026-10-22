@@ -1,4 +1,6 @@
-# Factoriza los siguientes polinomios a su mínima expresión
+# Actividad #20
+
+#### Factoriza los siguientes polinomios a su mínima expresión.
 
 57. $125 + 8x^3$ = $(2x + 5)(4x^2 - 10x + 25)$
 
